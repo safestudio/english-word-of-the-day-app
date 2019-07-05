@@ -1,5 +1,7 @@
 # wotd
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SafeStudio/english-word-of-the-day-app.svg)](https://greenkeeper.io/)
+
 > English word of the day
 
 ## Build Setup
