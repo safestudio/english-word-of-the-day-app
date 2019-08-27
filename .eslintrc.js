@@ -13,7 +13,9 @@ module.exports = {
   extends: 'standard',
   // required to lint *.vue files
   plugins: [
-    'html'
+    'html',
+    'import',
+    'node'
   ],
   // add your custom rules here
   'rules': {
